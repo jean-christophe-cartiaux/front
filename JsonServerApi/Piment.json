@@ -1,0 +1,32 @@
+{
+  "piment": [
+    {
+      "id": 1,
+      "nom": "Ghost Pepper",
+      "scovile": 1000000,
+      "description": "Bonjour je me prénomme toto Connard !!",
+      "img": "https://www.chilipeppermadness.com/wp-content/uploads/2019/11/Aji-Dulce-Chili-Peppers1-720x960.jpg"
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Pots_of_Trinidad_Scorpion.jpg",
+      "nom": "Piment Trinidad Scorpion",
+      "scovile": 1463700,
+      "description": "Le Trinidad Scorpion Butch T pepper est un piment qui a été pendant un moment le piment le plus fort au monde. Un test en laboratoire de mars 2011 donne une valeur sur l'échelle de Scoville de 1 463 700 au Trinidad Scorpion Butch T1. Ce piment est une variété de Capsicum chinense, dérivé du Trinidad Scorpion endémique de Trinité-et-Tobago. Il est baptisé ainsi par Butch Taylor, le propriétaire d'une entreprise fabriquant de la sauce chili et le créateur de cette variété2. Cette variété de piment est appelée Scorpion car la pointe du piment ressemble au dard d'un scorpion.",
+      "id": 2
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Habanero_chile_-_flower_with_fruit_%28aka%29.jpg/360px-Habanero_chile_-_flower_with_fruit_%28aka%29.jpg",
+      "nom": "Piment Habanero",
+      "scovile": 577000,
+      "description": "Le piment habanero (Capsicum chinense) originaire du Mexique est une espèce de piment de la famille des Solanaceae. Il est cultivé pour ses fruits à la saveur particulièrement piquante. Il est aussi appelé piment antillais.  À l'origine appelé Javanero (de l'île de Java - réputée pour sa cuisine hautement relevée) fut ensuite erronément appelé habanero (de La Habana) à cause de la prononciation hispanique1.  Ce piment est extrêmement fort (y compris pour les amateurs de piments) : sur l'échelle de Scoville, il est noté de 100 000 jusqu'à 577 000 pour certaines variétés. Une seule goutte de celui-ci suffit à brûler les lèvres et la langue. Il faut protéger ses mains et ses yeux en le préparant. Des fortes brûlures apparaissent sur les doigts quelques heures après la préparation. De même, sa préparation a tendance à irriter l'appareil respiratoire, provoquant l'effet d'une bombe lacrymogène.  En France métropolitaine, ce piment semble plus indiqué à la culture ornementale. Aux Antilles et aux Comores il est très communément consommé : découpé, on frotte les aliments avec le piment, sans le manger directement. Son parfum typique est irremplaçable dans la cuisine antillaise. À Madagascar, où il est appelé « tsilandimilahy » (approximativement : « cinq hommes ne peuvent le finir »), il est aussi apprécié comme condiment, cru ou sous forme de purée, mangé avec le « vary sy laoka » (riz avec des accompagnements). Au Mexique, il est utilisé pour infuser le mezcal et la tequila.",
+      "id": 3
+    },
+    {
+      "img": "https://peppergeek.com/wp-content/uploads/2021/10/SM-Chocolate-Bhutlah-peppers-ripe.jpg",
+      "nom": "Chocolate Bhutlah",
+      "scovile": 2000000,
+      "description": "Ne vous laissez pas tromper par le nom de ce piment ; vous ne le mettrez pas dans votre bouche comme vos bonbons préférés. Appelé le Chocolate Bhutlah, cet ami ardent a une couleur similaire à celle du cacao, mais avec un potentiel de 2 000 000 SHU : c’est une force à ne pas sous-estimer. Contrairement à certains piments de notre liste, celui-ci agit rapidement et réchauffe instantanément la bouche dès que vous le croquez. Une fois que la chaleur est là, elle n’est pas près de disparaître. Il est donc utile d’avoir du lait, du yaourt ou de la crème glacée à portée de main pour essayer de dompter cette chaleur dès qu’elle se déclenche.  En raison de sa force instantanée et implacable, le Chocolate Bhutlah est souvent inclus dans les sauces piquantes. Une goutte ou deux suffisent à faire passer votre plat au niveau supérieur (et au-delà) – alors utilisez-le avec parcimonie pour vraiment en profiter.",
+      "id": 4
+    }
+  ]
+}

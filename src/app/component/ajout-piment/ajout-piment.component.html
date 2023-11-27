@@ -1,0 +1,25 @@
+<div class="container">
+  <form id="addform" [formGroup]="formGroup" (submit)="ajoutPiment()">
+    <div class="formular">
+      <div class="urlField">
+        <h3>Picture url</h3>
+        <input type="text" formControlName="img" />
+      </div>
+      <div class="nameField">
+        <h3>Name</h3>
+        <input type="text" formControlName="nom" />
+      </div>
+      <div class="powerField">
+        <h3>Scoville heat units</h3>
+        <input type="number" formControlName="scovile" />
+      </div>
+      <div class="dspField">
+        <h3>Description</h3>
+        <input type="text" formControlName="description" />
+      </div>
+      <div class="btn">
+        <button class="addbtn" type="submit">Done</button>
+      </div>
+    </div>
+  </form>
+</div>

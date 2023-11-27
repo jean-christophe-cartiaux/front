@@ -1,0 +1,32 @@
+<title>Piment</title>
+<!-- <div class="card text-bg-secondary mb-3">
+  <ul>
+    <li *ngFor="let p of listPiment">
+      <img src="{{ p.img }}" />
+      <p>Nom : {{ p.nom }}</p>
+      <p>Scoville : {{ p.scoville }}</p>
+      <button>Description : {{ p.description }}</button>
+      <button (click)="RecupId(p.id)" class="text-body-secondary">
+        clic again
+      </button>
+    </li>
+  </ul>
+</div> -->
+<!-- <div class="row">
+  <div class="col-sm-12 mb-3 mb-sm-0">
+    <div class="card">
+      <div class="card-body"> -->
+<div class="card text-bg-secondary mb-3" *ngFor="let p of listPiment">
+  <img src="{{ p.img }}" class="card-img-top" />
+  <div class="card-body">
+    <h5 class="card-title">Nom : {{ p.nom }}</h5>
+    <h6 class="card-text">
+      <p>Scovile : {{ p.scovile }}</p>
+    </h6>
+    <button id="btn" (click)="RecupId(p.id)">clic again</button>
+  </div>
+</div>
+<!-- </div>
+    </div>
+  </div>
+</div> -->
